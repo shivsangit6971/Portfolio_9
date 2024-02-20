@@ -102,8 +102,7 @@ html{
 	font-family:Arial black;
 }
 .rsm:hover{
-	background-color: white;
-	text-decoration-color: royalblue;
+	background-color: royalblue;
 	color: royalblue;
 	border: 3px solid royalblue;
 
